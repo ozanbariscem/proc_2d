@@ -1,0 +1,10 @@
+{
+  "unique_tag" : "stone",
+  "name": "Stone", 
+  "description": "Solid, earthly material that can be broken down into rocks.",
+  "width": 1,
+  "height": 1,
+  "max_durability": 100,
+  "pathfinding_cost": 0,
+  "is_diggable" : true,
+}

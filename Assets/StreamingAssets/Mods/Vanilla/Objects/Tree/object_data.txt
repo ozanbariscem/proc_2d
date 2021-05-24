@@ -1,0 +1,11 @@
+{
+  "unique_tag" : "forest_tree",
+  "name": "Forest Tree", 
+  "description": "Earthly source for wood.",
+  "width": 1,
+  "height": 1,
+  "max_durability": 100,
+  "pathfinding_cost": 1,
+  "is_walkable" : true,
+  "is_choppable" : true,
+}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6597a70bb5f0e84e80f918501e0349e, type: 3}
+  m_Name: TileSettings
+  m_EditorClassIdentifier: 
+  tiles:
+  - biome: 0
+    terrainTiles:
+      deepWater: {fileID: 11400000, guid: f2d3d308a023f8e4986e778e977fae1b, type: 2}
+      water: {fileID: 11400000, guid: 6eafbfbeb94ccf84eb17d702f43afece, type: 2}
+      sand: {fileID: 11400000, guid: 59f5666105619f645a1fdf710f09e5cd, type: 2}
+      dirt: {fileID: 11400000, guid: 87d8b126d3c230542b736ce9b694589f, type: 2}
+      grass: {fileID: 11400000, guid: eb70cbed28c97f64389ad01e3b27eb94, type: 2}
+      forest: {fileID: 11400000, guid: ac58e76b98390734988b2e4f033ffd14, type: 2}
+      jungle: {fileID: 11400000, guid: eb7ac9ba9cd094b43b1862e1281e6642, type: 2}
+      mountain: {fileID: 11400000, guid: d926a0f44f6f31b408d56d4994626014, type: 2}
+      mountainTop: {fileID: 11400000, guid: d489c5e1f5c81c84e97e13ab7aca8646, type: 2}
+      ice: {fileID: 11400000, guid: a73d8587171982b49977e8529c96e925, type: 2}
+      snow: {fileID: 11400000, guid: 2e32d76cbc1aea142862a520c02954c9, type: 2}
+    natureTiles:
+      tree: {fileID: 11400000, guid: 20b1fdc31d4703c48a2cef09920e4381, type: 2}
+      stone: {fileID: 11400000, guid: 6b16c7d718ed0de46a155888bb404117, type: 2}

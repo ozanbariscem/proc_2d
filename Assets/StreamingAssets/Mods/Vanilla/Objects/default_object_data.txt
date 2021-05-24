@@ -1,0 +1,11 @@
+// This file contains default object data structure to help you while modding.
+{
+  "name": "_object_name_", 
+  "description": "_object_description_",
+  "width": 1, // value range [0, 255]
+  "height": 1, // value range [0, 255]
+  "max_durability": 150, // value range [0, 65535]
+  "pathfinding_cost": 1, // value range [0, 255], 0 means unwalkable and will be ignored while creating a path
+  "is_walkable": true,
+  "is_carriable": false
+}

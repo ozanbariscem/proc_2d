@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TerrainNoneAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 3ee3dcb5390811c46b648500d52ef4f4, type: 3}
+    - {fileID: 2800000, guid: f25e6594b0971774289d28a02aa30f84, type: 3}
+    - {fileID: 2800000, guid: e7a3251a0c5739542aa9349b4322add1, type: 3}
+    - {fileID: 2800000, guid: 5328ce6f6afd9384999f779d25209de1, type: 3}
+    - {fileID: 2800000, guid: 42e67f80a28ccf7499fd6f55c369fd2f, type: 3}
+    - {fileID: 2800000, guid: f6e4bac89bc26934998e694856f45461, type: 3}
+    - {fileID: 2800000, guid: 888ed1dedc251884aa758bf3ed6ea4e4, type: 3}
+    - {fileID: 2800000, guid: 07aa0c606f9d02b43bf37ff17212012d, type: 3}
+    - {fileID: 2800000, guid: 79cb92f1e624d2c4b99e870bd5b94bd8, type: 3}
+    - {fileID: 2800000, guid: 7e2d65edf864a8e429d40c4ba1f1580b, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 07aa0c606f9d02b43bf37ff17212012d, type: 3}
+  - {fileID: 21300000, guid: 42e67f80a28ccf7499fd6f55c369fd2f, type: 3}
+  - {fileID: 21300000, guid: 79cb92f1e624d2c4b99e870bd5b94bd8, type: 3}
+  - {fileID: 21300000, guid: f25e6594b0971774289d28a02aa30f84, type: 3}
+  - {fileID: 21300000, guid: 3ee3dcb5390811c46b648500d52ef4f4, type: 3}
+  - {fileID: 21300000, guid: f6e4bac89bc26934998e694856f45461, type: 3}
+  - {fileID: 21300000, guid: e7a3251a0c5739542aa9349b4322add1, type: 3}
+  - {fileID: 21300000, guid: 7e2d65edf864a8e429d40c4ba1f1580b, type: 3}
+  - {fileID: 21300000, guid: 888ed1dedc251884aa758bf3ed6ea4e4, type: 3}
+  - {fileID: 21300000, guid: 5328ce6f6afd9384999f779d25209de1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - water
+  - grass
+  - ice
+  - sand
+  - snow
+  - dirt
+  - mountain_top
+  - deep_water
+  - forest
+  - mountain
+  m_Tag: TerrainNoneAtlas
+  m_IsVariant: 0

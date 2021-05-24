@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dfe6a812304ac04bbfa897b695eaa41, type: 3}
+  m_Name: IceTile
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 21300000, guid: 79cb92f1e624d2c4b99e870bd5b94bd8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 0
+  m_ColliderType: 1
+  sprites:
+  - {fileID: 21300000, guid: 79cb92f1e624d2c4b99e870bd5b94bd8, type: 3}
+  - {fileID: 21300000, guid: f53ca7f7077b493458938276381fdae9, type: 3}
+  - {fileID: 21300000, guid: 0d54ce7a79109d046a28e111561b0d01, type: 3}
+  - {fileID: 21300000, guid: 576d2fb7fed4dbb46ad396b506e9ea8a, type: 3}
+  - {fileID: 21300000, guid: a692115f50f025444815ce3afd70a072, type: 3}
+  - {fileID: 21300000, guid: 2795d1db405e88a4e897ccba19173dfc, type: 3}
+  - {fileID: 21300000, guid: b2035024091a49445919dc1e3e3b619e, type: 3}
+  - {fileID: 21300000, guid: b2035024091a49445919dc1e3e3b619e, type: 3}
+  - {fileID: 21300000, guid: e3ee58ae7b0cde9408e0f77ca03aea4e, type: 3}
+  - {fileID: 21300000, guid: da4937dba1aae1f4886780cb1e0bb74e, type: 3}
+  - {fileID: 21300000, guid: 79cb92f1e624d2c4b99e870bd5b94bd8, type: 3}
+  - {fileID: 21300000, guid: 10e0a0fb2d6fee144abc31bb074b9e5e, type: 3}

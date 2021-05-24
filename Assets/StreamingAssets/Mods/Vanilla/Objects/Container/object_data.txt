@@ -1,0 +1,13 @@
+{
+  "unique_tag" : "container",
+  "name": "Container", 
+  "description": "_pretty_object_description_",
+  "width": 2,
+  "height": 1,
+  "max_durability": 100,
+  "container_capacity": 20000,
+  "pathfinding_cost": 2,
+  "is_walkable" : true,
+  "is_container": true,
+  "is_craftable": true,
+}

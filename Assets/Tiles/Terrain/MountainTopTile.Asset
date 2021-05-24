@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e21be1d710707184091eafad97a16da3, type: 3}
+  m_Name: MountainTopTile
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 21300000, guid: e7a3251a0c5739542aa9349b4322add1, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 0
+  m_ColliderType: 1
+  sprites:
+  - {fileID: 21300000, guid: e7a3251a0c5739542aa9349b4322add1, type: 3}
+  - {fileID: 21300000, guid: a3e2fa6e5ac25e74585e017c7ea2de29, type: 3}
+  - {fileID: 21300000, guid: 9570c15fc090ccd43a2b61e4884f0756, type: 3}
+  - {fileID: 21300000, guid: cf7d47100f0342143a14861a569d2161, type: 3}
+  - {fileID: 21300000, guid: b7b000e0a9ff35e448999fde59d0d7c8, type: 3}
+  - {fileID: 21300000, guid: c89270e4e23b0ac4c8e982e5bdb4e75e, type: 3}
+  - {fileID: 21300000, guid: a5cf10cf9c2fd7d4b8cb5e1cd513fc20, type: 3}
+  - {fileID: 21300000, guid: a5cf10cf9c2fd7d4b8cb5e1cd513fc20, type: 3}
+  - {fileID: 21300000, guid: 10fa93b4891a28347932bc700a62a164, type: 3}
+  - {fileID: 21300000, guid: e7a3251a0c5739542aa9349b4322add1, type: 3}
+  - {fileID: 21300000, guid: 7736b5841c283034b8ee62ee6f352ba1, type: 3}
+  - {fileID: 21300000, guid: e40c6f38b8d86ad4bbfd260f9b0ea03f, type: 3}

@@ -1,0 +1,6 @@
+{
+  "unique_tag": "wood",
+  "name": "Wood", 
+  "description": "_item_description",
+  "weight": 20,
+}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fd6705eb7a34804695f936ec0b654e0, type: 3}
+  m_Name: WaterTile
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 21300000, guid: 5599bcaa3bd4fea458b177be437fe6f4, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 0
+  m_ColliderType: 1
+  sprites:
+  - {fileID: 21300000, guid: 07aa0c606f9d02b43bf37ff17212012d, type: 3}
+  - {fileID: 21300000, guid: e8db18c85a5adec498fa265245a03014, type: 3}
+  - {fileID: 21300000, guid: 07aa0c606f9d02b43bf37ff17212012d, type: 3}
+  - {fileID: 21300000, guid: 5599bcaa3bd4fea458b177be437fe6f4, type: 3}
+  - {fileID: 21300000, guid: 77a632e6c29555049b790ae7ef7bef29, type: 3}
+  - {fileID: 21300000, guid: 61cab64866f95fd4b9cbd170b996ad0b, type: 3}
+  - {fileID: 21300000, guid: e43359d2d0962fb43900be406324c9ce, type: 3}
+  - {fileID: 21300000, guid: e43359d2d0962fb43900be406324c9ce, type: 3}
+  - {fileID: 21300000, guid: 92c2abe43fdc89245bb73a4f4794858d, type: 3}
+  - {fileID: 21300000, guid: bc581439c34d655458b52db115ea2226, type: 3}
+  - {fileID: 21300000, guid: d137db0d30ac8b5418a79fc19ff60a10, type: 3}
+  - {fileID: 21300000, guid: ccf66def4cc62f44ca8a85dffb6a468c, type: 3}

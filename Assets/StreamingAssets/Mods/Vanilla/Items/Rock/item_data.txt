@@ -1,0 +1,6 @@
+{
+  "unique_tag": "rock",
+  "name": "Rock", 
+  "description": "_item_description",
+  "weight": 20,
+}

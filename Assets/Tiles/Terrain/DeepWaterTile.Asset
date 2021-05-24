@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3062dd3816f46b7478f8503e5ce88792, type: 3}
+  m_Name: DeepWaterTile
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 21300000, guid: 5256753505f036449b76f04746433cb5, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 0
+  m_ColliderType: 1
+  sprites:
+  - {fileID: 21300000, guid: 7e2d65edf864a8e429d40c4ba1f1580b, type: 3}
+  - {fileID: 21300000, guid: 7e2d65edf864a8e429d40c4ba1f1580b, type: 3}
+  - {fileID: 21300000, guid: 5256753505f036449b76f04746433cb5, type: 3}
+  - {fileID: 21300000, guid: d959c04c54ca7a143a31517b3947c99f, type: 3}
+  - {fileID: 21300000, guid: 2ffd25efef3619f4eb84463e39855cce, type: 3}
+  - {fileID: 21300000, guid: 213e14f932a68724eba45d8405687a4d, type: 3}
+  - {fileID: 21300000, guid: 4f3b8a7afd0955a4fb81bc8cb7971867, type: 3}
+  - {fileID: 21300000, guid: 4f3b8a7afd0955a4fb81bc8cb7971867, type: 3}
+  - {fileID: 21300000, guid: 91f4663c22f87f94c874adb29f0ccf43, type: 3}
+  - {fileID: 21300000, guid: 5d3d92e2d0934c8429a1f44fb4153420, type: 3}
+  - {fileID: 21300000, guid: cca6baa84b7bf254e858f40b737d5729, type: 3}
+  - {fileID: 21300000, guid: 405f3d66c6e965f448b12d714f18096f, type: 3}
