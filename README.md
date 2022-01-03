@@ -2,11 +2,7 @@
 
   I started this project to combine everything I learned throughout years. I love modding and was curious about LUA when I started building this that's why I wanted it to be modable so after the core game was done I could just mod it as a hobby. 
   
-  I tested Lua with Unity for the first time in this project and it quickly became overwhelming.
-Which led me to realise Unity and C# is not really build for it. It can be done but it's just too much of a hussle and effects the performance way too much.
-  
-  This is also my last project before I moved on to Godot and fell in love.
-
+  I tested Lua with Unity for the first time in this project.
 
 # Key features:
  - World is procedurally generated.
